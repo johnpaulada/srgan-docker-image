@@ -1,0 +1,13 @@
+*.pyc
+*.ckpt
+*.data-00000-of-00001
+*.index
+*.meta
+model-*
+*.tar
+experiment_SRResnet/
+experiment_SRResnet/log/
+SRGAN_pre-trained/
+vgg19/
+result/
+.idea/
